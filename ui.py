@@ -53,8 +53,8 @@ class View(QWidget):
         self.show()
         
 <<<<<<< HEAD
-    def setDisplay(self):
-        self.te1.appendPlainText("Button clicked!")
+    def activateMessage(self, text)
+        self.te1.appendPlainText(text)
 =======
     def setDisplay(self):
         self.te1.appendPlainText("Button clicked!")
