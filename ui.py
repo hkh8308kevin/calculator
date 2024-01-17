@@ -53,7 +53,7 @@ class View(QWidget):
         self.show()
         
 <<<<<<< HEAD
-    def activateMessage(self, text)
+    def activateMessage(self, text):
         self.te1.appendPlainText(text)
 =======
     def setDisplay(self):
